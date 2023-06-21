@@ -11,9 +11,9 @@ The work should pave the way to develop more efficient multi-objective robust op
 decision-making (MORODM) procedures for handling practical problems with uncertainties
 
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/e44fadc0-9bf7-44cd-a257-e18366ae8189)
-
+Fig. R-NSGA-III for MCDM
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/a6b70478-b5fe-49b8-ae2b-4171e58dd96d)
-
+Fig. Four different schemes for Multi-objective Robust Optimization and Decision-making
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/682485bc-bafe-4a71-bf44-405d03f3acc7)
-
+Fig. Scheme-4 for 3-objective test problem
 
