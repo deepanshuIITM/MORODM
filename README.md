@@ -37,6 +37,11 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 **Fig. Scheme-4 for 3-objective test problem**
 
+![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/79a1d45b-c9f5-4312-a54b-3111d53215f3)
+
+
+**Fig. Scheme-4 for 8-objective test problem**
+
 
 **References:**
 
