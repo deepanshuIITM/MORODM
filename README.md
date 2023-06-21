@@ -1,7 +1,15 @@
 # MORODM
 ## Multi-objective Robust Optimization and Decision-making using Evolutionary Algorithm
 
+**Preliminary Requirements**
 
+[1] _pymoo_ toolbox by Julian Blank.
+
+[2] NSGA-III concept has been used from [2].
+
+[3] The definition of robustness is given in [3].
+
+[4] Details of R-NSGA-III is given in [4].
 
 The existing EMO literature on robustness studies emphasized on finding the entire robust front, 
 but hardly considered robustness in both optimization and decision-making tasks. In this work, 
@@ -30,7 +38,7 @@ Fig. Four different schemes for Multi-objective Robust Optimization and Decision
 Fig. Scheme-4 for 3-objective test problem
 
 
-References:
+**References:**
 
 [1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in python. IEEE Access, 8, 89497-89509.
 
