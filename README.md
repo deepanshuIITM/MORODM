@@ -23,19 +23,19 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/48e57700-d6d1-4c70-a534-3d57a66cd27c)
 
 
-Fig. R-NSGA-III for MCDM
+**Fig. R-NSGA-III for MCDM**
 
 
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/a6b70478-b5fe-49b8-ae2b-4171e58dd96d)
 
 
-Fig. Four different schemes for Multi-objective Robust Optimization and Decision-making
+**Fig. Four different schemes for Multi-objective Robust Optimization and Decision-making**
 
 
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/3014226a-ce5b-48f5-b285-285315902056)
 
 
-Fig. Scheme-4 for 3-objective test problem
+**Fig. Scheme-4 for 3-objective test problem**
 
 
 **References:**
