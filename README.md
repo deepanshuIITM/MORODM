@@ -1,6 +1,11 @@
 # MORODM
 ## Multi-objective Robust Optimization and Decision-making using Evolutionary Algorithm
 
+![R-NSGA-III](https://github.com/deepanshuIITM/MORODM/assets/137225940/8a8a9f14-a610-479f-8634-68ec88b13a8a)
+
+**Fig: Working of R-NSGA-III**
+
+
 **Preliminary Requirements**
 
 [1] _pymoo_ toolbox by Julian Blank.
