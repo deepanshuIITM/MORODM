@@ -50,7 +50,7 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 **References:**
 
-[1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in python. IEEE Access, 8, 89497-89509.
+[1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in _python_. IEEE Access, 8, 89497-89509.
 
 [2]. Deb, K., & Jain, H. (2013). An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints. IEEE transactions on evolutionary computation, 18(4), 577-601.
 
