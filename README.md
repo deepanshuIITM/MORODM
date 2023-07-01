@@ -1,7 +1,6 @@
 # MORODM
 ## Multi-objective Robust Optimization and Decision-making using Evolutionary Algorithm
-
-![R-NSGA-III](https://github.com/deepanshuIITM/MORODM/assets/137225940/9004e11b-f8c1-41ee-84ab-c5df11a07198)
+<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/9004e11b-f8c1-41ee-84ab-c5df11a07198" alt="image" width="500" height="300">
 
 **Fig: Working of R-NSGA-III**
 
@@ -36,7 +35,6 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 
 **Scheme A**
-
 
 
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/3014226a-ce5b-48f5-b285-285315902056)
