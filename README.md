@@ -28,7 +28,7 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/a6b70478-b5fe-49b8-ae2b-4171e58dd96d)
-
+<img src=<https://github.com/deepanshuIITM/MORODM/assets/137225940/a6b70478-b5fe-49b8-ae2b-4171e58dd96d>  height="275">
 
 **Fig. Four different schemes for Multi-objective Robust Optimization and Decision-making**
 
