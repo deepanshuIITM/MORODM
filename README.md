@@ -1,6 +1,6 @@
 # MORODM
 ## Multi-objective Robust Optimization and Decision-making using Evolutionary Algorithm
-<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/9004e11b-f8c1-41ee-84ab-c5df11a07198" alt="image" width="500" height="300">
+<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/9004e11b-f8c1-41ee-84ab-c5df11a07198" alt="image" width="500">
 
 **Fig: Working of R-NSGA-III**
 
@@ -26,23 +26,26 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 
 
-![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/a6b70478-b5fe-49b8-ae2b-4171e58dd96d)
+<img src= "https://github.com/deepanshuIITM/MORODM/assets/137225940/a6b70478-b5fe-49b8-ae2b-4171e58dd96d" alt="image" width="850">
 
 
 **Fig. Four different schemes for Multi-objective Robust Optimization and Decision-making**
 
-![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/bf90024e-dc10-47cc-9d92-907aed5f1415)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3df975a4-2b51-49c9-8e0f-1a3e664b1999" alt="Image 1" style="width: 45%;">   
+    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3d5bc9f1-a2ee-4d3e-83f4-5395ca6a4f04" alt="Image 2" style="width: 45%;">
+</div>
 
+**Scheme A and Scheme B for multi-objective robust optimization and decision-making**
 
-**Scheme A**
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3c731ee6-177f-4f32-b0c3-ccffe6d97d51" alt="Image 3" style="width: 45%;">   
+    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/070947f8-4e50-45de-a187-7515d632a8f4" alt="Image 4" style="width: 45%;">
+</div>
 
+**Scheme C and Scheme D for multi-objective robust optimization and decision-making**
 
 ![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/3014226a-ce5b-48f5-b285-285315902056)
-
-
-**Fig. Scheme-4 for 3-objective test problem**
-
-![image](https://github.com/deepanshuIITM/MORODM/assets/137225940/79a1d45b-c9f5-4312-a54b-3111d53215f3)
 
 
 **Fig. Scheme-4 for 8-objective test problem**
