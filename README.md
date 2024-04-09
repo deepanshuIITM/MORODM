@@ -7,13 +7,13 @@
 
 **Preliminary Requirements**
 
-[1] _pymoo_ toolbox by Julian Blank.
+    [1] _pymoo_ toolbox by Julian Blank.
 
-[2] NSGA-III concept has been used from [2].
+    [2] NSGA-III concept has been used from [2].
 
-[3] The definition of robustness is given in [3].
+    [3] The definition of robustness is given in [3].
 
-[4] Details of R-NSGA-III is given in [4].
+    [4] Details of R-NSGA-III is given in [4].
 
 The existing EMO literature on robustness studies emphasized on finding the entire robust front, 
 but hardly considered robustness in both optimization and decision-making tasks. In this work, 
@@ -54,10 +54,15 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 **References:**
 
-[1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in _python_. IEEE Access, 8, 89497-89509.
+    [1]. Blank, J., & Deb, K. (2020). Pymoo: Multi-objective optimization in _python_. IEEE Access, 8, 89497-89509.
 
-[2]. Deb, K., & Jain, H. (2013). An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, part I: solving problems with box constraints. IEEE transactions on evolutionary computation, 18(4), 577-601.
+    [2]. Deb, K., & Jain, H. (2013). An evolutionary many-objective optimization algorithm using reference-point-based 
+         nondominated sorting approach, part I: solving problems with box constraints. IEEE transactions on evolutionary 
+         computation, 18(4), 577-601.
 
-[3]. Deb, Kalyanmoy, and Himanshu Gupta. "Searching for robust Pareto-optimal solutions in multi-objective optimization." Evolutionary Multi-Criterion Optimization: Third International Conference, EMO 2005, Guanajuato, Mexico, March 9-11, 2005. Proceedings 3. Springer Berlin Heidelberg, 2005
+    [3]. Deb, Kalyanmoy, and Himanshu Gupta. "Searching for robust Pareto-optimal solutions in multi-objective optimization." 
+         Evolutionary Multi-Criterion Optimization: Third International Conference, EMO 2005, Guanajuato, Mexico, 
+         March 9-11, 2005. Proceedings 3. Springer Berlin Heidelberg, 2005
 
-[4]. Vesikar, Yash, Kalyanmoy Deb, and Julian Blank. "Reference point based NSGA-III for preferred solutions." 2018 IEEE symposium series on computational intelligence (SSCI). IEEE, 2018.
+    [4]. Vesikar, Yash, Kalyanmoy Deb, and Julian Blank. "Reference point based NSGA-III for preferred solutions." 
+         2018 IEEE symposium series on computational intelligence (SSCI). IEEE, 2018.
