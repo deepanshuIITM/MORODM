@@ -31,17 +31,15 @@ decision-making (MORODM) procedures for handling practical problems with uncerta
 
 **Fig. Four different schemes for Multi-objective Robust Optimization and Decision-making**
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3df975a4-2b51-49c9-8e0f-1a3e664b1999" alt="Image 1" style="width: 40%;">   
-    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3d5bc9f1-a2ee-4d3e-83f4-5395ca6a4f04" alt="Image 2" style="width: 40%;">
-</div>
+<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3df975a4-2b51-49c9-8e0f-1a3e664b1999" alt="image" width="400" height="420" >
+
+<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3d5bc9f1-a2ee-4d3e-83f4-5395ca6a4f04" alt="image" width="400" height="420"> 
 
 **Scheme A and Scheme B for multi-objective robust optimization and decision-making**
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3c731ee6-177f-4f32-b0c3-ccffe6d97d51" alt="Image 3" style="width: 40%;">   
-    <img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/070947f8-4e50-45de-a187-7515d632a8f4" alt="Image 4" style="width: 40%;">
-</div>
+<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/3c731ee6-177f-4f32-b0c3-ccffe6d97d51" alt="image" width="400" height="420" >
+
+<img src="https://github.com/deepanshuIITM/MORODM/assets/137225940/070947f8-4e50-45de-a187-7515d632a8f4" alt="image" width="400" height="420"> 
 
 **Scheme C and Scheme D for multi-objective robust optimization and decision-making**
 
